@@ -1,0 +1,9 @@
+fastapi==0.109.2
+uvicorn==0.27.1
+torch==2.2.0+cu128 torchvision==0.17.0+cu128 torchaudio==2.2.0+cu128 --index-url https://download.pytorch.org/whl/cu128
+diffusers==0.25.0
+transformers==4.37.2
+accelerate==0.27.2
+pillow==10.2.0
+python-multipart==0.0.9
+pydantic==2.6.1
