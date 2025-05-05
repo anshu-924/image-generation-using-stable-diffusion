@@ -33,14 +33,14 @@ const examples = [
     id: 5,
     title: "Anime-Inspired Graphics",
     description: "Vibrant designs influenced by Japanese animation aesthetics",
-    image: "https://images.pexels.com/photos/5709661/pexels-photo-5709661.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    image: "generated-design(4).png",
     style: "anime"
   },
   {
     id: 6,
     title: "Classic B&W Elegance",
     description: "Timeless monochromatic designs with sophisticated styling",
-    image: "https://images.pexels.com/photos/4427816/pexels-photo-4427816.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    image: "generated-design(5).png",
     style: "bw"
   }
 ];

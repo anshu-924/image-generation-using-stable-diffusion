@@ -37,7 +37,7 @@ const Hero: React.FC = () => {
           <div className="md:w-1/2 relative">
             <div className="relative overflow-hidden rounded-xl shadow-2xl">
               <img 
-                src="https://images.pexels.com/photos/5625028/pexels-photo-5625028.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
+                src="https://images.pexels.com/photos/325876/pexels-photo-325876.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
                 alt="Fashion designs" 
                 className="w-full h-auto object-cover transform hover:scale-105 transition-transform duration-700 ease-out"
               />

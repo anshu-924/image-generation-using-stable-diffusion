@@ -3,7 +3,7 @@ import StyleSelector from './StyleSelector';
 import { Wand2 } from 'lucide-react';
 
 const styles = [
-  { id: 'anime', name: 'Anime', description: 'Japanese animation style with vibrant colors' },
+  { id: 'anime', name: 'Anime', description: 'japanese anime style' },
   { id: 'realistic', name: 'Realistic', description: 'Photo-realistic designs with fine details' },
   { id: 'ai', name: 'AI Art', description: 'Modern AI-generated artistic style' },
   { id: 'movie', name: 'Movie', description: 'Cinematic style inspired by films' },
